@@ -10,7 +10,7 @@
     "react-scripts": "3.4.4"
   },
   "devDependencies": {
-    "typescript": "3.9.10"
+    "typescript": "5.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
